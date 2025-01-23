@@ -6,7 +6,7 @@ class ManipulaRepositorio:
     def __init__(self, username):
         self.username = username
         self.api_base_github = 'https://api.github.com'
-        self.acess_token = ''
+        self.acess_token = '{token de acesso}'
         self.headers = headers = {'Authorization' : 'Bearer ' + self.acess_token,
            'X-GitHub-Api-Version': '2022-11-28'}
         
