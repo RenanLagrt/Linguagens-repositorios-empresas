@@ -71,6 +71,6 @@ ling_mais_usadas_spotify = spotify_rep.cria_df_linguagens()
 ling_mais_usadas_amzn.to_csv('Dados/linguagens_amzn.csv',index=False)
 ling_mais_usadas_netflix.to_csv('Dados/linguagens_netflix.csv',index=False)
 ling_mais_usadas_spotify.to_csv('Dados/linguagens_spotify.csv',index=False)
-
+ling_mais_usadas_apple.to_csv('Dados/linguagens_apple.csv',index=False)
 
 
