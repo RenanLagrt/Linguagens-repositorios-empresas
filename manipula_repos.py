@@ -49,6 +49,7 @@ novo_repo.add_arquivo(nome_repo, 'manipula_repos.py', 'manipula_repos.py')
 novo_repo.add_arquivo(nome_repo, 'linguagens_amazon.csv', 'Dados/linguagens_amzn.csv')
 novo_repo.add_arquivo(nome_repo, 'linguagens_netflix.csv', 'Dados/linguagens_netflix.csv')
 novo_repo.add_arquivo(nome_repo, 'linguagens_spotify.csv', 'Dados/linguagens_spotify.csv')
+novo_repo.add_arquivo(nome_repo, 'linguagens_apple.csv', 'Dados/linguagens_apple.csv')
 
 
 
